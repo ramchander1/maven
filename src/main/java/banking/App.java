@@ -1,5 +1,4 @@
 /* This is a comment */
-/* */
 package banking;
 import java.util.*;
 /**
